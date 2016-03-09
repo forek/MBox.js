@@ -1,0 +1,7 @@
+.mbox_mask {height:100%;width:100%;background-color:#000;z-index:100;opacity:0;position:fixed;}
+.mbox_mimg {position:fixed;z-index:101;opacity:0;box-shadow: 3px 3px 10px #000;}
+.mbox_btn {position:fixed;z-index:102;opacity:0;cursor:pointer;}
+.mbox_brand {background-color:#fff;box-shadow: 1px 1px 5px #ddd;position:fixed;z-index:102;opacity:0;height:40px;width:150px;border-radius:5px}
+.mbox_text {font-size:20px;margin-top:10px;}
+
+body {margin: 0 0 0 0}
