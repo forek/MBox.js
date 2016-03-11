@@ -14,6 +14,8 @@
     	sizeLimit:[800,800] // 尺寸限制
     });  
 
+友情提示DEMO中链接的http://api.flickr.com/需要翻墙
+
 # JSONP.js
 一个简单的JSONP跨域请求组件
 
